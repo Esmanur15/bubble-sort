@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\bin\Debug\net5.0\BubleSort.exe
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\bin\Debug\net5.0\BubleSort.deps.json
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\bin\Debug\net5.0\BubleSort.runtimeconfig.json
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\bin\Debug\net5.0\BubleSort.runtimeconfig.dev.json
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\bin\Debug\net5.0\BubleSort.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\bin\Debug\net5.0\ref\BubleSort.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\bin\Debug\net5.0\BubleSort.pdb
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.AssemblyInfo.cs
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\ref\BubleSort.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.pdb
+C:\Users\ESMANUR\OneDrive\Belgeler\Projelerim\BubleSort\BubleSort\obj\Debug\net5.0\BubleSort.genruntimeconfig.cache
